@@ -9,7 +9,7 @@
 ## Dev Server
 
 - Start server: `flask run`
-- Stop server: <kbd>Ctrl</kbd> `c`
+- Stop server: <kbd>Ctrl</kbd> + `c`
 
 ## Network Troubleshooting
 
