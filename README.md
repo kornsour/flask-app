@@ -11,11 +11,7 @@
 - Start server: `flask run`
 - Stop server: `<kbd>Ctrl</kbd> c`
 
-## Waitress Server
-
-- `waitress-serve --call 'flaskr:create_app'`
-
 ## Network Troubleshooting
 
 - Check running containers: `docker ps`
-- Check ports: `lsof -i tcp:5000`
+- Check ports: `lsof -i tcp:5001`
