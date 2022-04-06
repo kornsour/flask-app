@@ -3,7 +3,8 @@
 ## Docker
 
 - `docker build -t flask-test .`
-- `docker run -dp 5000:5000 flask-test`
+- `docker run -dp 5001:5000 flask-test`
+  - Port 5000 already used by AirPlay on macOS :rage:
 
 ## Dev Server
 
